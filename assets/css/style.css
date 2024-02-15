@@ -1872,7 +1872,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   width: 250px; /* Set your desired width */
   height: 200px; /* Set your desired height */
   object-fit: cover; /* Ensures the image covers the area well, without distorting aspect ratios */
-  border-radius: 15px; /* Apply rounded corners to the images */
+  border-radius: 20px; /* Apply rounded corners to the images */
 }
 
 /* If you have a hover effect and want to ensure the image scales nicely */
